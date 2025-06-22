@@ -31,7 +31,7 @@ backgroundColorChanger/
 
 ```bash
 git clone https://github.com/Minsu-Agrahari/backgroundColorChanger.git
-
+```
 
 2. Open the index.html file in your browser.
 

@@ -12,8 +12,11 @@ This is a simple web project that lets users change the background color of the 
 ## 📁 Project Structure
 
 backgroundColorChanger/
+
 ├── index.html
+
 ├── style.css
+
 └── script.js
 
 

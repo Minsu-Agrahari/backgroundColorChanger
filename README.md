@@ -37,7 +37,8 @@ git clone https://github.com/Minsu-Agrahari/backgroundColorChanger.git
 
 ---
 
-### 📸 Preview
+## 📸 Preview
+
 <!-- Optional: Replace with your screenshot -->
 
 📜 License
@@ -47,7 +48,7 @@ Feel free to modify or improve the code. Pull requests are welcome!
 
 ---
 
-### ✅ How to Add It
+## ✅ How to Add It
 
 1. In your local project folder:
 ```bash

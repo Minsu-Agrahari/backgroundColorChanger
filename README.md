@@ -37,7 +37,7 @@ git clone https://github.com/Minsu-Agrahari/backgroundColorChanger.git
 
 ---
 
-📸 Preview
+### 📸 Preview
 <!-- Optional: Replace with your screenshot -->
 
 📜 License

@@ -35,6 +35,8 @@ git clone https://github.com/Minsu-Agrahari/backgroundColorChanger.git
 
 2. Open the index.html file in your browser.
 
+---
+
 📸 Preview
 <!-- Optional: Replace with your screenshot -->
 
@@ -50,10 +52,18 @@ Feel free to modify or improve the code. Pull requests are welcome!
 1. In your local project folder:
 ```bash
 echo "# Background Color Changer" > README.md
+```
 
 Or open VS Code, create a new file named README.md, and paste the above content.
 
 2. Then commit and push:
+
+```
 git add README.md
+```
+```
 git commit -m "Add README file"
+```
+```
 git push origin main
+```

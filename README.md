@@ -10,6 +10,7 @@ This is a simple web project that lets users change the background color of the 
 - Beginner-friendly DOM manipulation example
 
 ## 📁 Project Structure
+
 backgroundColorChanger/
 ├── index.html
 ├── style.css
